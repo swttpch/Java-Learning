@@ -12,7 +12,8 @@
     <name>Learning Parent</name>
     <url>http://maven.apache.org</url>
     <modules>
-        <module>sum</module>
+        <module>app</module>
+        <module>interface</module>
     </modules>
 
     <properties>
