@@ -17,6 +17,7 @@
         <module>wrapperClasses</module>
         <module>whileLoop</module>
         <module>variableScope</module>
+        <module>packages</module>
     </modules>
 
     <properties>

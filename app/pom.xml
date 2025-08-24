@@ -21,7 +21,7 @@
     <dependencies>
         <dependency>
             <groupId>com.swttpch.demo</groupId>
-            <artifactId>variableScope</artifactId>
+            <artifactId>packages</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
