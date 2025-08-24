@@ -15,6 +15,7 @@
         <module>app</module>
         <module>interface</module>
         <module>wrapperClasses</module>
+        <module>whileLoop</module>
     </modules>
 
     <properties>
