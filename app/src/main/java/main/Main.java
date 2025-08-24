@@ -1,12 +1,13 @@
 package main;
 
 
+import com.swttpch.demo.variableScope.DiceRoller;
+
 public class Main {
     public static void main(String[] args) {
-       WhileLoop whileLoop = new WhileLoop();
+        DiceRoller diceRoller = new DiceRoller();
 
-       whileLoop.doApproach();
-
-       // whileLoop.whileApproach();
+        diceRoller.execute();
+        diceRoller.execute();
     }
 }
