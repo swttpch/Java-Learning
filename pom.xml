@@ -13,11 +13,13 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>app</module>
-        <module>interface</module>
-        <module>wrapperClasses</module>
-        <module>whileLoop</module>
-        <module>variableScope</module>
-        <module>packages</module>
+        <module>core</module>
+        <module>loops</module>
+        <module>arrays</module>
+        <module>methods</module>
+        <module>gui</module>
+        <module>techniques</module>
+        <module>files</module>
     </modules>
 
     <properties>

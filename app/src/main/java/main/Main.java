@@ -1,10 +1,9 @@
 package main;
 
-
-import packages.ToolBox;
+import devices.keyBinding.KeyBinding;
 
 public class Main {
-    public static void main(String[] args) {
-        ToolBox toolBox = new ToolBox();
+    public static void execute() throws InterruptedException {
+        new KeyBinding().execute();
     }
 }
